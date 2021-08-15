@@ -15,3 +15,4 @@ echo "R R   ii n  n g g w w w o o r   m m m     E    c    l a a ii r   e e "
 echo "R  RR ii n  n ggg  w w  ooo r   m m m     EEEE  ccc l aaa ii r   ee  "
 echo "                g                                                    "
 echo "              ggg                                                    "
+rm ringworm.sh
