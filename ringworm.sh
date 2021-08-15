@@ -1,4 +1,5 @@
 #!/bin/bash
+clear
 echo " L       k                                   d                     h    b            "
 echo " L    ii k k                                 d              ii     h    b            "
 echo " L       kk   eee      aa     ggg ooo ooo  ddd     nnn  eee    ggg hhh  bbb  ooo rrr "
